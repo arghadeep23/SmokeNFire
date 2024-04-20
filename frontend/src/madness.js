@@ -102,6 +102,5 @@ const dynamic_rotate = {
     100: "absolute top-0 aspect-square w-full rotate-[100deg] bg-gradient-to-tr from-transparent from-50% to-white to-50% transition-transform duration-500",
     201: "absolute top-0 aspect-square w-full rotate-[201deg] bg-gradient-to-tr from-transparent from-50% to-white to-50% transition-transform duration-500",
     288: "absolute top-0 aspect-square w-full rotate-[288deg] bg-gradient-to-tr from-transparent from-50% to-white to-50% transition-transform duration-500",
-
 }
 export default dynamic_rotate;
